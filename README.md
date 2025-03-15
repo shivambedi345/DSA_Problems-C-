@@ -35,8 +35,7 @@ For my **C++ DSA problems and solutions**, explore:
 🔹 Implement **real-world applications of DSA**  
 
 ## 🚀 Let's Connect!
-💼 **GitHub:** [shivambedi345](https://github.com/shivambedi345)  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
+💼 **GitHub:** [shivambedi345](https://github.com/shivambedi345)    
 
 🚀 Join me on this journey of **mastering DSA & problem-solving!** 💡
 
