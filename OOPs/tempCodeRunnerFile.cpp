@@ -1,0 +1,1 @@
+Hero ramesh(10);
